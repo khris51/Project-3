@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#year-select {
+    margin: 20px;
+}
+
+#chart-container {
+    margin: 0 auto;
+    text-align: center;
+}
