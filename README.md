@@ -1,6 +1,6 @@
 ## Title
 Netflix 
-![image info](./Users/marquitarandle/Desktop/Data-Analyst/Projects/Project-3/title.png)
+![image info](./Users/marquitarandle/Desktop/Data-Analyst/Projects/untitled folder/Project-3/Khris/title.png)
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -19,20 +19,15 @@ As an instrument to demonstrative the global growth of Netflix
 ## Credits
 Geraldo Bedoya,Khristopher Prince ,Chuchu Wang 
 
-![pie chart](./Users/marquitarandle/Desktop/Data-Analyst/Projects/Project-3/pie.png)
+![piechart](./Users/marquitarandle/Desktop/Data-Analyst/Projects/untitled folder/Project-3/Khris/pie.png)
 
-![map](./Users/marquitarandle/Desktop/Data-Analyst/Projects/Project-3/map.png)
+![map](./Users/marquitarandle/Desktop/Data-Analyst/Projects/untitled folder/Project-3/Khris/map.png)
 
-![heatmap](./Users/marquitarandle/Desktop/Data-Analyst/Projects/Project-3/heatmap.png)
+![heatmap](./Users/marquitarandle/Desktop/Data-Analyst/Projects/untitled folder/Project-3/Khris/heatmap.png)
 
 ## Features
 As an instrument to demonstrative the global growth of Netflix  Bar charts that show the popular rating types of, IMDb vs Netflix, interactive maps with drop down menus to demonstrate the changes throughout the years. A heat map that displays the global production of movies throughout the world. Line graphs that show production of tv shows vs movies over the years, and pie charts that display the trend for movies and TV shows each year.
 
-
-
-![image info](./Users/marquitarandle/Desktop/Data-Analyst/Projects/Project-3/Screenshot 2024-04-18 at 9.05.57 PM.png)
-
-![image info](/Users/marquitarandle/Desktop/Data-Analyst/Projects/Project-3/Screenshot 2024-04-18 at 9.06.39 PM.png)
 
 
 ## Tests
